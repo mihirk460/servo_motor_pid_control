@@ -1,7 +1,6 @@
 # servo_motor_pid_control - High-Performance Interactive PID Controller Simulation
 
 ![Demo GIF](https://raw.githubusercontent.com/mihirk460/servo_motor_pid_control/main/servo_motor_pid_video.gif)
-*(To create this GIF, see instructions in the "Making Your Repository Professional" section below)*
 
 This repository contains a high-performance Python application that provides an interactive, real-time simulation of a PID (Proportional-Integral-Derivative) controller regulating a physically-accurate robot arm.
 
@@ -61,9 +60,8 @@ You will need Python 3 and the following libraries:
 
 3.  **Run the application:**
     ```bash
-    python main_app.py
+    python servo_motor_pid.py
     ```
-    *(Assuming you name your final script `main_app.py`)*
 
 ---
 
